@@ -1,3 +1,25 @@
+# Text Editor App
+
+## description 
+Renders text and has several features for text manipulation and formatting.
+
+To select a word you shoud be double-click on the word you want to select, then you can apply one of the bold, italic and underlined formats, if the format is already applied in the word, it will be remove. You can also change the word selected by a synonym. When selecting a word, press the 'search for synonyms' button, the list of synonyms will be displayed, by selecting a synonym the original word will be replaced by the synonym (you can always select the original word).
+
+## How to use
+Download the example or clone the repo:
+The easiest way to get the sample is by cloning this repository with git, using the following instructions:
+
+```bash
+git clone https://github.com/arturoliduena/text-editor-app.git
+cd text-editor-app
+```
+
+Install it and run:
+```bash
+npm install 
+npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
