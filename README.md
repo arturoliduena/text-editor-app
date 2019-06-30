@@ -1,6 +1,6 @@
 # Text Editor App
 
-## description 
+## Description 
 Renders text and has several features for text manipulation and formatting.
 
 To select a word you shoud be double-click on the word you want to select, then you can apply one of the bold, italic and underlined formats, if the format is already applied in the word, it will be remove. 
