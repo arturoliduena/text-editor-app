@@ -1,0 +1,15 @@
+#control-panel {
+    background-color: #fff;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 5px;
+}
+#format-actions {
+    width: 600px;
+}
+
+.button {
+    margin: 0px 10px;
+}

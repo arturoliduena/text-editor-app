@@ -1,6 +1,3 @@
-# text-editor-app
-text editor - renders text and has several features for text manipulation and formatting.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
